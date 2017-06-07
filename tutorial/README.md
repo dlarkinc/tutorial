@@ -1,3 +1,3 @@
 This is the readme for the tutorial repository.
-A line in between...
+
 All kinds of lovely stuff are going on.
